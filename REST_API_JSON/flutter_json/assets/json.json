@@ -1,0 +1,9 @@
+{
+  "name": "Akash Gupta",
+  "age": 24,
+  "married": false,
+  "kids": null,
+  "hobbies": [
+    "coding","surfing web"
+  ]
+}
